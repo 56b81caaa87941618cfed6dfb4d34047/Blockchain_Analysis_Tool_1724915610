@@ -36,5 +36,11 @@
         "content": "Alright, I'll add a button that says \"Hello World.\"",
         "timestamp": "29082024071508",
         "message_id": "guest29082024071507"
+    },
+    {
+        "role": "chat_ui_checklist",
+        "content": "{\"status\": \"success\", \"ui_elements_checklist\": [{\"feature\": \"Add a button labeled 'Hello World'\", \"checked\": true}, {\"feature\": \"Add a confirmation dialog when buttons are clicked\", \"checked\": false}, {\"feature\": \"Customize button colors based on user preference\", \"checked\": false}, {\"feature\": \"Implement hover effects for buttons\", \"checked\": true}, {\"feature\": \"Add a tooltip explaining button functions\", \"checked\": false}], \"input_token_count\": 259, \"output_token_count\": 94, \"time_taken\": \"0:00:01.215176\"}",
+        "timestamp": "29082024071511",
+        "message_id": "guest29082024071507"
     }
 ]
